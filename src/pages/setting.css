@@ -1,0 +1,11 @@
+.ioncontent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.ionavatar {
+  width: 100px; /* adjust the width and height as needed */
+  height: 100px;
+}
